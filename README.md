@@ -1,3 +1,3 @@
-calulator live - https://candid-pony-286822.netlify.app/
+calulator live - https://akdcalculate.netlify.app/
 
-   modal live  - https://dulcet-bonbon-6747be.netlify.app/ 
+   modal live  - akdmodalhack.netlify.app 
